@@ -1,0 +1,4 @@
+/home/phinease/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/phinease/桌面/Project_opengl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/phinease/桌面/Project_opengl/cmake-build-debug
